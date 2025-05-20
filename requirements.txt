@@ -1,6 +1,6 @@
 pandas
-numpy==1.23.5
-scikit-learn==1.2.2  # Версія, що випущена приблизно в той же час, що й numpy 1.23.x та tensorflow 2.11/2.12
-tensorflow==2.11.0   # Або 2.11.0
+numpy
+scikit-learn
+tensorflow
 streamlit
 # pickle не потрібно додавати, це стандартна бібліотека Python
